@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+
+.banner {
+    background-image: url(images/donation13.jpg);
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    height: 350px;
+
+
+
+
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(235, 116, 5);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+}
