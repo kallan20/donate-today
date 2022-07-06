@@ -9,7 +9,7 @@ body {
     font-weight: 900;
     text-align: center;
     background-repeat: no-repeat;
-    background-size: 1700px;
+    background-size: 1600px;
     height: 350px;
     padding-top: 10%;
     font-size: xx-large;
@@ -34,7 +34,7 @@ h6 {
 
 .second-header {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .donate-today {
@@ -115,4 +115,16 @@ h5 {
     font-family: 'Lobster', cursive;
     padding-top: 5%;
     height: 1px;
+}
+
+section {
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+.half-width image {
+    width: 0%;
+    padding: 5px 5px;
 }
