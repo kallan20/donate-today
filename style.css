@@ -11,12 +11,6 @@ body {
     background-repeat: no-repeat;
     background-size: 1400px;
     height: 350px;
-
-
-
-
-
-
 }
 
 .link-button {
@@ -26,4 +20,66 @@ body {
     padding: 10px 30px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+.donate-today {
+    text-align: center;
+
+}
+
+#spacing {
+    word-spacing: 30px;
+}
+
+h5 {
+    text-decoration-line: underline;
+}
+
+.box {
+    display: flex;
+
+}
+
+#food {
+    display: flex;
+    box-shadow: gray;
+    width: 45%;
+    margin-block: 5px;
+    background-color: lightgrey;
+
+}
+
+#shelter {
+    display: flex;
+    box-shadow: gray;
+    width: 45%;
+    margin-block: 5px;
+    background-color: lightgreen;
+
+}
+
+#education {
+    display: flex;
+    box-shadow: lightblue;
+    width: 45%;
+    margin-block: 5px;
+    background-color: lightsteelblue;
+}
+
+.footer-do {
+    color: orangered;
+    text-align: center;
+    background-color: black;
+}
+
+.color {
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+#footer {
+    font-family: 'Lobster', cursive;
+    padding-top: 5%;
+    height: 1px;
 }
