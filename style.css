@@ -11,15 +11,22 @@ body {
     background-repeat: no-repeat;
     background-size: 1400px;
     height: 350px;
+    padding-top: 10%;
+    font-size: xx-large;
+
+}
+
+h6 {
+    font-size: x-small;
 }
 
 .link-button {
     text-decoration: none;
     background-color: rgb(235, 116, 5);
     color: white;
-    padding: 10px 30px;
     border-radius: 5px;
     font-weight: 700;
+
 }
 
 .donate-today {
